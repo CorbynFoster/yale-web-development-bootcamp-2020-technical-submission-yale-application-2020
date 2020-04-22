@@ -1,7 +1,9 @@
 require_relative './test'
 AVERAGE_HEIGHT_IN_INCHES = 67
 
-# name = "corbyn"
+#
+require_relative '../app'
+name = "corbyn"
 age = 19
 favorite_food = "sushi"
 height_in_inches = 71
