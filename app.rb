@@ -8,7 +8,6 @@ height_in_inches = 71
 AVERAGE_HEIGHT_IN_INCHES = 69
 below_average = height_in_inches < 69
 above_average = height_in_inches > 69
-
 height_in_inches ? 'You are taller than average.' : 'You are not taller than average.'
 ## Do not modify below this line!
 
